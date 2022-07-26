@@ -126,7 +126,6 @@ Performed analysis and made following conclusions:
  8.) Guests use different channels for making bookings out of which most preferred way is TA/TO. 
  9.) Overall adr of City hotel is slightly higher than Resort hotel and no. of bookings of City hotel is also higher than Resort hotel. Hence, City hotel is makes more revenue.
  10.) Cancelation rate is higher in city hotel. With lead time more than 100 there is more possibility of cancellation.
- 
  11.) Both hotels have very small percentage that customer will repeat.
  12.) TA/TO is mostly used for planning Hotel visits well ahead of time.
  13.) Arrivals in hotels increases at weekends and also the avg adr tends to go up as month ends. 
@@ -151,7 +150,7 @@ And many more conclusion
 ```
 ## Challenges
 ```
-(1) There was a lot of duplicate data.
-(2) Data was present in wrong datatype format.
-(3) Choosing appropriate visualization techniques to use was difficult.
-(4) A lot of null values were there in the dataset.
+(1) Lot of duplicate data.
+(2) Data type of some Data was in wrong format.
+(3) Which visualization techniques to use was a challenge
+(4) Lot of null values were present in the dataset.
