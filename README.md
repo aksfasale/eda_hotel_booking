@@ -141,12 +141,12 @@ Performed analysis and made following conclusions:
 (3) Most of the guests came from european countries, with most of guests coming from Portugal.
 (4)It's clearly seen that the most people preferred Type A, type of room. Also, the average daily rate of type A rooms seems to be less. Also, those whose average daily rate is higher i.e.(Type C,G,F,H) it's seen that preference is also less, hotel need to improve on this.
 (5)Retention rate of both the hotel is very low need to think on that too.
-(9) July- August are the most busier and profitable months for both of hotels. 
-(10) Within a month, adr gradually increases as month ends, with small sudden rise on weekends.
-(11) Couples are the most common guests for hotels, hence hotels can plan services according to couples needs to increase revenue.
-(12) More number of people in guests results in more number of special requests.
-(13) Bookings made via complementary market segment and adults have on average high no. of special request.
-(14) For customers, generally the longer stays (more than 15 days) can result in better deals in terms of low adr.
+(6) July- August are the most busier and profitable months for both of hotels. 
+(7) Within a month, adr gradually increases as month ends, with small sudden rise on weekends.
+(8) Couples are the most common guests for hotels, hence hotels can plan services according to couples needs to increase revenue.
+(9) More number of people in guests results in more number of special requests.
+(10) Bookings made via complementary market segment and adults have on average high no. of special request.
+(11) For customers, generally the longer stays (more than 15 days) can result in better deals in terms of low adr.
 And many more conclusion
 ```
 ## Challenges
