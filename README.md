@@ -33,8 +33,7 @@ We are given a hotel bookings dataset. This dataset contains booking information
 - country: Country of origin of customers (as mentioned by them)
 - market_segment: What segment via booking was made and for what purpose.
 - distribution_channel: Via which medium booking was made.
-- is_repeated_guest: Whether the customer has made any booking before(0 for No and 1 for 
-                     Yes)
+- is_repeated_guest: Whether the customer has made any booking before(0 for No and 1 for Yes)
 - previous_cancellations: No. of previous canceled bookings.
 - previous_bookings_not_canceled: No. of previous non-canceled bookings.
 - reserved_room_type: Room type reserved by a customer.
@@ -141,7 +140,7 @@ Performed analysis and made following conclusions:
 (7) Within a month, average daily rate gradually increases as month ends, with small sudden rise on weekends.
 (8) Couples are the most common guests for hotels, hence hotels can plan services according to couples needs to increase revenue.
 (9) For customers, generally the longer stays (more than 15 days) can result in better deals in terms of low average daily rate.
-(10) November,December, January and February are the months which has least bookings so in this periods you can get rooms with less average daily rate.
+(10) November, December, January and February are the months which has least bookings so in this periods you can get rooms with less average daily rate.
 And many more conclusion
 ```
 ## Challenges
