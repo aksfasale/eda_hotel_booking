@@ -86,7 +86,7 @@ Performed EDA and tried answering the following questions:
 ```
  Q1) Which hotel has more no of bookings and What is the  percentage of bookings in each hotel ?
  Q2) Hotel Wise Bookings based on Month and year also What is the trend of bookings within a month ?
- Q3) Which meal type isthe  most preffered meal of customers ?
+ Q3) Which meal type is the  most preffered meal of customers ?
  Q4) Country Wise - Number of Bookings ?
  Q5) Which agent is making maximum Bookings ?
  Q6) Which room type is in most demand and which room type generates the  highest average daily rate?
@@ -99,9 +99,8 @@ Performed EDA and tried answering the following questions:
  Q14) Is thier any Special request given by the customer to hotels?
  Q15) Which channel is mostly used for the booking of hotels? 
  Q16) Chances that its customer will return for another stay?
- Q17) Which distribution channel is performing better for the hotels? 
- Q18) Which types of customers mostly make bookings?
- Q19) How many customers are most likely to require a parking space?
+ Q17) Which types of customers mostly make bookings?
+ Q18) How many customers are most likely to require a parking space?
 ```
 
 Mainly performed using Matplotlib and Seaborn library and the following graph and plots had been used:
@@ -112,45 +111,42 @@ Mainly performed using Matplotlib and Seaborn library and the following graph an
    - Heatmap.
    - Box Plot
              
-### Analysis:
+## Analysis:
 
 Performed analysis and made following conclusions:
 ```
- 1.)Around 61% bookings are for City hotel and 39% bookings are for Resort hotel, therefore City Hotel is busier than Resort hotel. 
- 2.)July- August are the most busier and profitable months for both of hotels.  
+ 1.) 61% bookings are for City hotel and 39% bookings are for Resort hotel, therefore City Hotel is busier than Resort hotel. 
+ 2.) July- August are the most busier and profitable months for both of hotels.  
  3.) Most popular meal type is BB(Bed and Breakfast).
  4.) Most of the guests came from european countries, with highest number of guests from Portugal.
- 5.)Agent no. 9 has made most no. of bookings.
- 6.)Most demanded room type is A, but better adr generating rooms H, G and C. Hotels should increase the no. of room types A and H to maximise revenue.
+ 5.) Agent no. 9 has made most no. of bookings.
+ 6.) Most demanded room type is A, but better average daily rate generating rooms H, G and C. Hotels should increase the no. of room types A and H to maximise revenue.
  7.) Most common stay length is less than 4 days and generally people prefer City hotel for short stay, but for long stays, Resort Hotel is preferred.
  8.) Guests use different channels for making bookings out of which most preferred way is TA/TO. 
- 9.) Overall adr of City hotel is slightly higher than Resort hotel and no. of bookings of City hotel is also higher than Resort hotel. Hence, City hotel is makes more revenue.
+ 9.) Overall average daily rate of City hotel is slightly higher than Resort hotel and no. of bookings of City hotel is also higher than Resort hotel. Hence, City hotel is makes more revenue.
  10.) Cancelation rate is higher in city hotel. With lead time more than 100 there is more possibility of cancellation.
  11.) Both hotels have very small percentage that customer will repeat.
- 12.) TA/TO is mostly used for planning Hotel visits well ahead of time.
- 13.) Arrivals in hotels increases at weekends and also the avg adr tends to go up as month ends. 
- 14.)Moslty bookings are done by couples(bookings have two adults.)
+ 12.) Arrivals in hotels increases at weekends and also the average daily rate tends to go up as month ends. 
+ 13.) Moslty bookings are done by couples(bookings have two adults.)
 ```
-
 ## Conclusion
 
 ```
-(1) Around 61% bookings are for City hotel and 39% bookings are for Resort hotel, therefore City Hotel is busier than Resort hotel. Also the overall adr of City hotel is slightly higher than Resort hotel.
+(1) 61% bookings are for City hotel and 39% bookings are for Resort hotel, therefore City Hotel is busier than Resort hotel. Also the overall average daily rate of City hotel is slightly higher than Resort hotel.
 (2) Mostly guests stay for less than 5 days in hotel and for longer stays Resort hotel is preferred.
 (3) Most of the guests came from european countries, with most of guests coming from Portugal.
-(4)It's clearly seen that the most people preferred Type A, type of room. Also, the average daily rate of type A rooms seems to be less. Also, those whose average daily rate is higher i.e.(Type C,G,F,H) it's seen that preference is also less, hotel need to improve on this.
-(5)Retention rate of both the hotel is very low need to think on that too.
-(6) July- August are the most busier and profitable months for both of hotels. 
-(7) Within a month, adr gradually increases as month ends, with small sudden rise on weekends.
+(4) It's clearly seen that the most people preferred room is Type A, . Also, the average daily rate of type A rooms seems to be less. But, those whose average daily rate is higher i.e.(Type C,G,F,H) it's seen that preference is also less, hotel need to improve on this.
+(5) Retention rate of both the hotel is very low need to think on that too.
+(6) We should also target months between May to Aug. Those are peak month for Hotel revenue generation. 
+(7) Within a month, average daily rate gradually increases as month ends, with small sudden rise on weekends.
 (8) Couples are the most common guests for hotels, hence hotels can plan services according to couples needs to increase revenue.
-(9) More number of people in guests results in more number of special requests.
-(10) Bookings made via complementary market segment and adults have on average high no. of special request.
-(11) For customers, generally the longer stays (more than 15 days) can result in better deals in terms of low adr.
+(9) For customers, generally the longer stays (more than 15 days) can result in better deals in terms of low average daily rate.
+(10) November,December, January and February are the months which has least bookings so in this periods you can get rooms with less average daily rate.
 And many more conclusion
 ```
 ## Challenges
 ```
-(1) Lot of duplicate data.
+(1) Lot of null values were present in the dataset.
 (2) Data type of some Data was in wrong format.
-(3) Which visualization techniques to use was a challenge
-(4) Lot of null values were present in the dataset.
+(3) Lot of duplicate data.
+(4) Which visualization techniques to use was a challenge?
